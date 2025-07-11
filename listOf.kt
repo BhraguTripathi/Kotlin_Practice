@@ -7,4 +7,9 @@ fun main(){
     }
     println()
     println(list.filter {it.startsWith("a")})
+    println(list.indexOf("apple"))
+    println(list.get(2))
+    println(list.lastIndex)
+    println(list.sorted())
+
 }

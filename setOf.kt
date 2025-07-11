@@ -8,4 +8,10 @@ fun main(){
     }
     println()
     println(fruits.filter{it.contains("a")})
+
+    println(fruits.indexOf("apple"))
+    println(fruits.elementAt(2))
+    println(fruits.lastIndexOf("apple"))
+    println(fruits.count())
+
 }
