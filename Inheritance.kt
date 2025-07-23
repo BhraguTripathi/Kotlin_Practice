@@ -26,17 +26,17 @@
 //    employee1.display()
 //}
 
-open class Animal{
-    open fun run(){
-        println("Animal can run")
-    }
-}
-class Tiger: Animal(){
-    override fun run() {
-        println("Tiger can run very fast")
-    }
-}
-fun main(){
-    val tiger=Tiger()
-    tiger.run()
-}
+//open class Animal{
+//    open fun run(){
+//        println("Animal can run")
+//    }
+//}
+//class Tiger: Animal(){
+//    override fun run() {
+//        println("Tiger can run very fast")
+//    }
+//}
+//fun main(){
+//    val tiger=Tiger()
+//    tiger.run()
+//}
